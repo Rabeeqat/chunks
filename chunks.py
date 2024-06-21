@@ -1,6 +1,5 @@
 from time import time
 import matplotlib.pyplot as plt
-from collections import deque
 
 class Entry:
   def __init__(self, timestamp):
